@@ -11,7 +11,7 @@
   ##
 
 <div> 
-  <a href="https://diegogalvao.dev/" target="_blank"><img src="https://img.shields.io/website?label=diegogalvao.dev"></a>
+  <a href="https://diegogalvao.dev/" target="_blank"><img src="https://img.shields.io/website?label=diegogalvao.dev&style=for-the-badge"></a>
   <a href="https://www.instagram.com/diegohgalvao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/587164759598694428" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@diegogalvao.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
