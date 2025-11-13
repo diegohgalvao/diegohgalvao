@@ -1,4 +1,4 @@
-### 👋 Olá, sou o Diego Galvão e atuo como desenvolvedor front-end!
+### 👋 Diego Galvão - Front-End Developer | WordPress Specialist | AI Automation Enthusiast
 
 50+ sites publicados e mais de 5 anos de experiência com desenvolvimento web.
 <div style="display: inline_block"><br>
